@@ -1,10 +1,10 @@
 # Counter-Strike 1.6 - BunnyHop
-This is a very simple script.
+Simple python external bunny hop for in Counter-Strike 1.6
 
 # Warning
 Does not work for all versions of cs 1.6.
 
-## Tips for finding addresses
+# Tips for finding addresses
 ### Jump
 1. Open the cheat engine
 
