@@ -1,5 +1,5 @@
 # Counter-Strike 1.6 - BunnyHop
-This is a pretty simple script.
+This is a very simple script.
 
 # Warning
 Does not work for all versions of cs 1.6.
